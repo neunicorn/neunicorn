@@ -1,17 +1,13 @@
 <div align="center">
   <h1>Hi There 👋</h1>
 </div>
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 <div id="badges" align="center">
+  <p>  I'm Muhamad Zulfan, a passionate computer science student with a keen interest in backend development and web development. I love diving into the intricacies of building robust and scalable systems that power the digital world.</p>
   <a href="https://www.linkedin.com/in/muhamadzulfan/" target="_blank">  
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  </br>
+  <br>
 <img src="https://komarev.com/ghpvc/?username=neunicorn&style=flat-square&color=blue" alt=""/>
-  <p>  I'm Muhamad Zulfan, a passionate computer science student with a keen interest in backend development and web development. I love diving into the intricacies of building robust and scalable systems that power the digital world.</p>
 </div>
 
 ## Background
