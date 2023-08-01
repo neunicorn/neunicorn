@@ -16,6 +16,9 @@
 - 🌐 Fascinated by web development and its ever-evolving technologies.  
 
 ## Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=neunicorn&theme=dark&background=000000)](https://git.io/streak-stats) 
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neunicorn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=neunicorn&background=1B212F&border=1B212F&ring=F08080&sideNums=FFFFFF&sideLabels=FFFFFF&stroke=66718F&fire=F08080&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF" width="78%">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=neunicorn&border_radius=0&hide_border=true&show_icons=true&bg_color=1B212F&text_color=FFFFFF" height="160px"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neunicorn&border_radius=0&hide_border=true&layout=compact&bg_color=1B212F&text_color=FFFFFF" height="160px">
+</p>
