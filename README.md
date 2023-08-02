@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>Hi There 👋</h1>
+  <h1>Hi There!, I'm Zulfan 👋</h1>
 </div>
 <div id="badges" align="center">
-  <p>  I'm Muhamad Zulfan, a passionate computer science student with a keen interest in backend development and web development. I love diving into the intricacies of building robust and scalable systems that power the digital world.</p>
+  <p>  I'm  a passionate computer science student with a keen interest in backend development and web development. I love diving into the intricacies of building robust and scalable systems that power the digital world.</p>
   <a href="https://www.linkedin.com/in/muhamadzulfan/" target="_blank">  
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
