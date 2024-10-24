@@ -12,7 +12,7 @@
 
 ## Background
 - 🎓 Currently pursuing a degree in Computer Science.
-- 💻 Proficient in programming languages such as Node.js, JavaScript, and Python. 
+- 💻 Proficient in programming languages such as Node.js, JavaScript, Java and spring boot, and Python. 
 
 ## Stats
 <br>
